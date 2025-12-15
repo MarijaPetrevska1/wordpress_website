@@ -24,4 +24,14 @@ After completing the course, I built my own bakery website project to apply what
 ## Purpose
 This project was created for learning and portfolio purposes to demonstrate WordPress website creation and page building skills.
 
+## Screenshots
+
+![](images/1.JPG)
+
+![](images/2.JPG)
+
+![](images/3.JPG)
+
+![](screenshots/4.JPG)
+
 
