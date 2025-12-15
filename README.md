@@ -1,8 +1,9 @@
 # WordPress Bakery Website 🍰🥐
 
-This is a WordPress bakery website created as a portfolio project.
-
-The website was designed and built using WordPress, focusing on layout, content structure, and responsive design.
+## About this Project 
+- This is a WordPress bakery website created as a portfolio project.
+This project was created as a follow-up to the **Guided Project: Build a Free Website with WordPress** course.  
+After completing the course, I built my own bakery website project to apply what I learned, customize pages, and create a fully responsive layout.
 
 ## Features
 - Home page
