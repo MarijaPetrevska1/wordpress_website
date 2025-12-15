@@ -1,4 +1,4 @@
-# WordPress Bakery Website 🍰
+# WordPress Bakery Website 🍰🥐
 
 This is a WordPress bakery website created as a portfolio project.
 
