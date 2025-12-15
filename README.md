@@ -24,16 +24,4 @@ After completing the course, I built my own bakery website project to apply what
 ## Purpose
 This project was created for learning and portfolio purposes to demonstrate WordPress website creation and page building skills.
 
-## Screenshots
-
-### Home Page
-![Home Page](1)
-
-### About Page
-![About Page](![1](https://github.com/user-attachments/assets/1bd2cab5-77d1-45d7-8e35-ce98edd4ed7f)
-)
-
-### Menu Page
-![Menu Page](screenshots/menu.png)
-
 
