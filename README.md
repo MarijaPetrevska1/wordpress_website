@@ -27,16 +27,16 @@ This project was created after completing the **Guided Project: Build a Free Web
 
 ![](images/3.JPG)
 
-![](screenshots/4.JPG)
+![](images/4.JPG)
 
-![](screenshots/5.JPG)
+![](images/5.JPG)
 
-![](screenshots/6.JPG)
+![](images/6.JPG)
 
-![](screenshots/7.JPG)
+![](images/7.JPG)
 
-![](screenshots/8.JPG)
+![](images/8.JPG)
 
-![](screenshots/9.JPG)
+![](images/9.JPG)
 
 
