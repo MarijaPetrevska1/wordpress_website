@@ -26,3 +26,14 @@ This project was created for learning and portfolio purposes to demonstrate Word
 
 ## Screenshots
 
+### Home Page
+![Home Page](1)
+
+### About Page
+![About Page](![1](https://github.com/user-attachments/assets/1bd2cab5-77d1-45d7-8e35-ce98edd4ed7f)
+)
+
+### Menu Page
+![Menu Page](screenshots/menu.png)
+
+
