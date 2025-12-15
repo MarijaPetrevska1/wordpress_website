@@ -34,4 +34,14 @@ This project was created for learning and portfolio purposes to demonstrate Word
 
 ![](screenshots/4.JPG)
 
+![](screenshots/5.JPG)
+
+![](screenshots/6.JPG)
+
+![](screenshots/7.JPG)
+
+![](screenshots/8.JPG)
+
+![](screenshots/9.JPG)
+
 
